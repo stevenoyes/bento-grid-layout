@@ -1,0 +1,107 @@
+/* Reset CSS */
+/*
+  http://meyerweb.com/eric/tools/css/reset/ 
+  v2.0 | 20110126
+  License: none (public domain)
+*/
+html, body, div, span, applet, object, iframe,
+h1, h2, h3, h4, h5, h6, p, blockquote, pre,
+a, abbr, acronym, address, big, cite, code,
+del, dfn, em, img, ins, kbd, q, s, samp,
+small, strike, strong, sub, sup, tt, var,
+b, u, i, center,
+dl, dt, dd, ol, ul, li,
+fieldset, form, label, legend,
+table, caption, tbody, tfoot, thead, tr, th, td,
+article, aside, canvas, details, embed, 
+figure, figcaption, footer, header, hgroup, 
+menu, nav, output, ruby, section, summary,
+time, mark, audio, video {
+	margin: 0;
+	padding: 0;
+	border: 0;
+	font-size: 100%;
+	font: inherit;
+	vertical-align: baseline;
+}
+/* HTML5 display-role reset for older browsers */
+article, aside, details, figcaption, figure, 
+footer, header, hgroup, menu, nav, section {
+	display: block;
+}
+body {
+	line-height: 1;
+}
+ol, ul {
+	list-style: none;
+}
+blockquote, q {
+	quotes: none;
+}
+blockquote:before, blockquote:after,
+q:before, q:after {
+	content: '';
+	content: none;
+}
+table {
+	border-collapse: collapse;
+	border-spacing: 0;
+}
+img {
+  max-width: 100%;
+  height: auto;
+  vertical-align: middle;
+  font-style: italic;
+  background-repeat: no-repeat;
+  background-size: cover;
+  shape-margin: 1rem;
+}
+/* - Mobile: 375px
+- Desktop: 1440px */
+/* > 💡 These are just the design sizes. Ensure content is responsive and meets WCAG requirements by testing the full range of screen sizes from 320px to large screens. */
+
+@font-face {
+  font-family: 'DM Sans Medium Italic';
+  src: url('../fonts/DMSans-MediumItalic.woff2') format('woff2'),
+      url('../fonts/DMSans-MediumItalic.woff') format('woff'),
+      url('../fonts/DMSans-MediumItalic.ttf') format('truetype');
+  font-weight: 500;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'DM Sans Medium';
+  src: url('../fonts/DMSans-Medium.woff2') format('woff2'),
+      url('../fonts/DMSans-Medium.woff') format('woff'),
+      url('../fonts/DMSans-Medium.ttf') format('truetype');
+  font-weight: 500;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'DM Sans Regular';
+  src: url('../fonts/../fonts/DMSans-Regular.woff2') format('woff2'),
+      url('../fonts/DMSans-Regular.woff') format('woff'),
+      url('../fonts/DMSans-Regular.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+
+:root {
+  /* 
+  - Purple 100: hsl(254, 88%, 90%)
+  - Purple 500: hsl(256, 67%, 59%)
+  - Yellow 100: hsl(31, 66%, 93%)
+  - Yellow 500: hsl(39, 100%, 71%)
+  - White: hsl(0, 0%, 100%)
+  - Black: hsl(0, 0%, 7%) 
+  */
+}
+
+/* General */
+body {
+  font-size: 18px;
+}
