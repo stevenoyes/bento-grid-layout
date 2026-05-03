@@ -1,3 +1,5 @@
+# Bento grid solution
+
 ## Table of contents
 
 - [Overview](#overview)
@@ -6,7 +8,7 @@
   - [Links](#links)
 - [My process](#my-process)
   - [Built with](#built-with)
-  - [Highlight](#highlight)
+  - [Useful Snippets](#useful-snippets)
   - [Useful resources](#useful-resources)
 - [Author](#author)
 
@@ -14,39 +16,47 @@
 
 ### The challenge
 
-Build out bento grid layout to look as close to the design documents as possible.
+Users should be able to:
+
+- View the optimal layout for the interface depending on their device's screen size
 
 ### Screenshot
 
-![Mobile](./assets/images/mobile.png)
-
-![Desktop](./assets/images/desktop.png)
+Desktop
+![](./assets/images/Desktop-View.png)
+Mobile
+![](./assets/images/Mobile-View.png)
 
 ### Links
 
-- Solution URL: [Github](https://github.com/SteveNoyes/bento-grid-layout)
-- Live Site URL: [Github live site](https://stevenoyes.github.io/bento-grid-layout/)
+- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
 
 ## My process
 
 ### Built with
 
-- Mobile-first workflow
+- Semantic HTML5 markup
+- CSS custom properties
 - Flexbox
+- CSS Grid
+- Mobile-first workflow
+- JavaScript
 
-### Highlight
+### Useful Snippets
 
 ```html
 ```
 ```css
 ```
+```js
+```
 
 ### Useful resources
 
-- [Transfonter](https://transfonter.org/) - This tool converts any TTF, OTF, WOFF, WOFF2 or SVG fonts to css @font-face formats with CSS and HTML sample files.
-- [Reset CSS](https://meyerweb.com/eric/tools/css/reset/) - Reduce browser inconsistencies in things like default line heights, margins and font sizes of headings, and so on.
-- [Image Reset CSS](https://gist.github.com/palashmon/35bda7887eb4bc45459d71eca3dda7a5) - This CSS block is a More Effective CSS Image Reset. It resets the default styles of an image element. 
+- [Example resource 1](https://www.example.com) - This helped me for XYZ reason. I really liked this pattern and will use it going forward.
+- [Example resource 2](https://www.example.com) - This is an amazing article which helped me finally understand XYZ. I'd recommend it to anyone still learning this concept.
 
 ## Author
 
-- Website - [Steven Noyes](https://www.stevenmnoyes.com)
+- Website - [Add your name here](https://www.your-site.com)
