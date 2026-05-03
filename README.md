@@ -25,12 +25,12 @@ Users should be able to:
 Desktop
 ![](./assets/images/Desktop-View.png)
 Mobile
-![](./assets/images/Mobile-View.png)
+![](./assets/images/Mobile-View.png){width=50%}
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Github repo](https://github.com/SteveNoyes/bento-grid-layout)
+- Live Site URL: [Github pages](https://stevenoyes.github.io/bento-grid-layout/)
 
 ## My process
 
